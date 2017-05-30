@@ -1,3 +1,3 @@
 # Demo
 
-To see the conflict!
+Local conflict!
