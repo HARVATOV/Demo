@@ -1,3 +1,3 @@
 # Demo
 
-Local conflict!
+Repository conflict
