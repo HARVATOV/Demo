@@ -1,0 +1,6 @@
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\2 Practicing Floating Point Num\2 Practicing Floating Point Num\bin\Debug\2 Practicing Floating Point Num.exe.config
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\2 Practicing Floating Point Num\2 Practicing Floating Point Num\bin\Debug\2 Practicing Floating Point Num.exe
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\2 Practicing Floating Point Num\2 Practicing Floating Point Num\bin\Debug\2 Practicing Floating Point Num.pdb
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\2 Practicing Floating Point Num\2 Practicing Floating Point Num\obj\Debug\2 Practicing Floating Point Num.exe
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\2 Practicing Floating Point Num\2 Practicing Floating Point Num\obj\Debug\2 Practicing Floating Point Num.pdb
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\2 Practicing Floating Point Num\2 Practicing Floating Point Num\obj\Debug\2 Practicing Floating Point Num.csprojResolveAssemblyReference.cache

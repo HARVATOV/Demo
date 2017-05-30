@@ -1,0 +1,6 @@
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\12 Rectangele properties\12 Rectangele properties\bin\Debug\12 Rectangele properties.exe.config
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\12 Rectangele properties\12 Rectangele properties\bin\Debug\12 Rectangele properties.exe
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\12 Rectangele properties\12 Rectangele properties\bin\Debug\12 Rectangele properties.pdb
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\12 Rectangele properties\12 Rectangele properties\obj\Debug\12 Rectangele properties.csprojResolveAssemblyReference.cache
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\12 Rectangele properties\12 Rectangele properties\obj\Debug\12 Rectangele properties.exe
+C:\Users\AsusKa\Documents\Visual Studio 2017\Projects\Data and Variable Exercises\12 Rectangele properties\12 Rectangele properties\obj\Debug\12 Rectangele properties.pdb
